@@ -1,0 +1,6 @@
+{
+  "name": "3D 妖怪塔防 | 3D Yokai Tower Defense",
+  "description": "3D 妖怪塔防遊戲：結合黃金脈衝塔、藍色冰凍塔與紅色重砲塔，迎戰綠皮小鬼、疾風狐妖、符咒獨眼靈與赤紅鬼王。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
